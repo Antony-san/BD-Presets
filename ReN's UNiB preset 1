@@ -34,7 +34,7 @@ Under Night in Birth [cl-r]
 
 	/* APP BACKGROUND */
 	--background-shading: 90%; /* app background shading (0 for complete smoothness) [default: 100%] */
-	--background-overlay: rgba(0, 0, 0, 0.39); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
+	--background-overlay: rgba(0, 0, 0, 0.41); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
 	--background-image: url(https://lh4.googleusercontent.com/sjWNW59fd0y00_mQaTaW5KQAiMVGPNib2bYlIboq8tnIEVhvT2Hp9nkx1YkyrHB-q3-MGqOPc8NEIG074YHiBNoaL256O_edmGf5-m6zue1zvOTaGF6ZJasZL0mCP_RA-A=w1280); /* app background image (link must be HTTPS) [default: url(https://clearvision.gitlab.io/images/sapphire.jpg)]*/
 	--background-position: center; /* app background position [default: center] */
 	--background-size: cover; /* app background size [default: cover] */
