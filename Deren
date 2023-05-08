@@ -1,0 +1,57 @@
+/**
+This is from clearvision on not created by me he get's all credit I'm just using the code to make my own presets
+
+This is a Deren themed preset enjoy C:
+ */
+
+/* Credits to Zerthox for making the original theme. */
+
+/* IMPORT CSS */
+@import url(https://clearvision.gitlab.io/v6/main.css);
+
+/* SETTINGS */
+:root {
+
+	/* ACCENT COLORS */
+	--main-color: #3a3342; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+	--hover-color: #412c33; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
+	--success-color: #666479; /* success accent color (hex, rgb or hsl) [default: #43b581] */
+	--danger-color: #741c1c; /* danger accent color (hex, rgb or hsl) [default: #982929] */	
+	--url-color: var(--main-color); /*The color of url links [default: var(--main-color)]*/
+
+	/* STATUS COLORS */
+	--online-color: #d1bac6; /* online status color (hex, rgb or hsl) [default: #43b581] */
+	--idle-color: #897677; /* idle status color (hex, rgb or hsl) [default: #faa61a] */
+	--dnd-color: #7f5449; /* dnd status color (hex, rgb or hsl) [default: #982929] */
+	--streaming-color: #281727; /* streaming status color (hex, rgb or hsl) [default: #593695] */
+	--offline-color: #363c56; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
+
+	/* GENERAL */
+	--main-font: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif; /* main font for app (font must be installed) [default: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif] */
+	--code-font: Consolas, Liberation Mono, Menlo, Courier, monospace; /* font for codeblocks (font must be installed) [default: Consolas, Liberation Mono, Menlo, Courier, monospace] */
+	--text-normal: rgb(237, 234, 227); /* color of default discord text */
+	--text-muted:  rgb(130, 112, 112); /* color of default discord muted text (e.g.text found in input fields before typing).*/
+	--channels-width: 220px; /* channel list width (240px for Discord default) [default: 220px] */
+	--members-width: 240px; /* member list width [default: 240px] */
+
+	/* APP BACKGROUND */
+	--background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
+	--background-overlay: rgba(0, 0, 0, 0.55); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
+	--background-image: url(https://i.ibb.co/sgNpjtY/Deren-1.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.gitlab.io/images/sapphire.jpg)]*/
+	--background-position: center; /* app background position [default: center] */
+	--background-size: cover; /* app background size [default: cover] */
+	--background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
+	--background-attachment: fixed; /* app background attachment [default: fixed] */
+	--background-brightness: 100%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
+	--background-contrast: 100%; /* app background contrast [default: 100%] */
+	--background-saturation: 100%; /* app background saturation [default: 100%] */
+	--background-invert: 0%; /* app background invert (0 - 100%)  [default: 0%] */
+	--background-grayscale: 0%; /* app background grayscale ( 0 - 100%) [default: 0%] */
+	--background-sepia: 0%; /* app background sepia (0 - 100%) [default: 0%] */
+	--background-blur: 1px; /* app background blur [default: 0px] */
+	
+	/* HOME BUTTON ICON */
+	--home-icon: url(https://clearvision.gitlab.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.gitlab.io/icons/discord.svg)]*/
+	--home-position: center; /* home button icon position [default: center] */
+	--home-size: 40px; /* home button icon size [default: 40px] */
+}
