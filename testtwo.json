@@ -54,10 +54,10 @@
             "#c2abd9"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#2A252F"
+            "#1D0B2E"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#221E26"
+            "#1D0B2E"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#221E26"
@@ -69,10 +69,10 @@
             "#412c33"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#131D46"
+            "#2C1346"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#0F152C"
+            "#BB98DF"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#0F152C"
@@ -103,7 +103,7 @@
         ]
     },
     "rawColors": {
-        "PRIMARY": "#080D21",
+        "PRIMARY": "#1D0D2E",
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#b8b8b8",
         "PRIMARY_300": "#536cd4",
@@ -131,7 +131,7 @@
        
     },
   "background": {
-    "blur": 1,
+    "blur": 2,
     "url": "https://i.ibb.co/sgNpjtY/Deren-1.jpg",
     "alpha": 0.42
   },
