@@ -3,7 +3,7 @@
     "description": "this was the bd preset I first reviewed so I'll be using it",
     "authors": [
         {
-            "name": "Ari",
+            "name": "Ari modded by Antony-san",
             "id": "639959347518242821"
         }
     ],
@@ -48,25 +48,25 @@
             "#0F152C"
         ],
         "BACKGROUND_TERTIARY": [
-            "#080D21"
+            "#2A252F"
         ],
         "BACKGROUND_ACCENT": [
-            "#080D21"
+            "#c2abd9"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#080D21"
+            "#2A252F"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#0F152C"
+            "#221E26"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#0F152C"
+            "#221E26"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#0F152C"
+            "#655A72"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#0F152C"
+            "#655A72"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#131D46"
