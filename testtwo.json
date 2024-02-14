@@ -42,10 +42,10 @@
             "#0000008c"
         ],
         "BACKGROUND_SECONDARY": [
-            "#270F2C"
+            "#220F2C"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#270F2C"
+            "#220F2C"
         ],
         "BACKGROUND_TERTIARY": [
             "#2A252F"
@@ -69,7 +69,7 @@
             "#412c33"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#2C1346"
+            "#230F38"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#BB98DF"
