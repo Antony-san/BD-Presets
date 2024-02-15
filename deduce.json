@@ -1,6 +1,6 @@
 {
     "name": "Deren v0.0.1",
-    "description": "gonna deduct what tf each thing does",
+    "description": "this was the bd preset I first reviewed so I'll be using it",
     "authors": [
         {
             "name": "Ari modded by Antony-san",
@@ -9,12 +9,127 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [ 
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#b8b8b8"
+        ],
+        "TEXT_NORMAL": [
             "#C3ABAB"
+        ],
+        "TEXT_MUTED": [
+            "#b8b8b8"
+        ],
+        "TEXT_DANGER": [
+            "#CD8674"
+        ],
+        "TEXT_LINK": [ 
+            "#D1BAC6"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#b8b8b8"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#412c33"
+        ],
+        "INTERACTIVE_ACTIVE": [ 
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#969696"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#0000008c"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#220F2C"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#220F2C"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#2A252F"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#c2abd9"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#1D0B2E"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#1D0B2E"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#221E26"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#412c33"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#412c33"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#230F38"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#BB98DF"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#0F152C"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "translucent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#080D21"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [ 
+            "#080D21"
+        ],
+        "KEYBOARD": [
+            "#080D21"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#9F9797"
+        ],
+        "CHANNEL_ICON": [
+            "#b8b8b8"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#b8b8b8"
+        ],
+        "CHAT_BACKGROUND": [ 
+            "#000000"
         ]
     },
-
+    "rawColors": {
+        "PRIMARY": "#1D0D2E",
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#b8b8b8",
+        "PRIMARY_300": "#755e70",
+        "PRIMARY_360": "#b8b8b8",
+        "PRIMARY_400": "#755e70",
+        "PRIMARY_500": "#0F152C",
+        "PRIMARY_600": "#1D0D2E",
+        "PRIMARY_630": "#1D0D2E",
+        "PRIMARY_660": "#1D0D2E",
+        "PRIMARY_700": "#1D0D2E",
+        "PRIMARY_800": "#1D0D2E",
+        "PRIMARY_900": "#1D0D2E",
+        "YELLOW_300": "#755e70",
+        "BRAND_260": "#6e89f5",
+        "BRAND_360": "#755e70",
+        "BRAND_500": "#755e70",
+        "BRAND_560": "#755e70",
+        "GREEN_360": "#755e70",
+        "RED_400": "#755e70",
+        "ORANGE_345": "#755e70",
+        "RED_560": "#755e70",
+        "GREEN_345": "#755e70",
+        "BLUE_345": "#755e70",
+        "WHITE_500": "#ffffff"
        
-    
+    },
   "background": {
     "blur": 2,
     "url": "https://i.ibb.co/sgNpjtY/Deren-1.jpg",
