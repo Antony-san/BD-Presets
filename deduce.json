@@ -1,0 +1,24 @@
+{
+    "name": "Deren v0.0.1",
+    "description": "gonna deduct what tf each thing does",
+    "authors": [
+        {
+            "name": "Ari modded by Antony-san",
+            "id": "639959347518242821"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [ 
+            "#C3ABAB"
+        ]
+    },
+
+       
+    }
+  "background": {
+    "blur": 2,
+    "url": "https://i.ibb.co/sgNpjtY/Deren-1.jpg",
+    "alpha": 0.7
+  },
+    "spec": 2
+}
