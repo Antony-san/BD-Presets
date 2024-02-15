@@ -15,7 +15,7 @@
             "#b8b8b8"
         ],
         "TEXT_NORMAL": [
-            "#746363"
+            "#C3ABAB"
         ],
         "TEXT_MUTED": [
             "#b8b8b8"
@@ -90,7 +90,7 @@
             "#080D21"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#BDBDBD"
+            "#9F9797"
         ],
         "CHANNEL_ICON": [
             "#b8b8b8"
